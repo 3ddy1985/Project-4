@@ -1,0 +1,2 @@
+class SnippetCollectionsController < ApplicationController
+end
